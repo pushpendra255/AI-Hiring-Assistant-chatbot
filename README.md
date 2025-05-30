@@ -60,7 +60,3 @@ client = Groq(api_key="your_groq_api_key")
 For queries or enhancements, feel free to reach out:
 **Name:** Pushpendra Singh Bhadauriya  
 **Email:** pushpendrabhadauriya28@gmail.com
-
----
-
-Built with ❤️ for the **AI/ML Intern Assignment**.
